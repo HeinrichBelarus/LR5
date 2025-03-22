@@ -1,0 +1,4 @@
+B 01.01.2006 SIGMA 911911
+C 29.12.2009 terpila 100
+D 05.03.2011 illegal_migrant 0
+A 01.20.2011 slave -100
